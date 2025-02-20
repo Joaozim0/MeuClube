@@ -1,6 +1,7 @@
 import telebot
 
-TOKEN = "SEU_TOKEN_DO_BOT"
+TOKEN = "7098786378: AAFrxaj8sYFZrwVN308S7v7p
+yWvtSLzZ3DI"
 bot = telebot.TeleBot(TOKEN)
 
 # Lista de times disponíveis
